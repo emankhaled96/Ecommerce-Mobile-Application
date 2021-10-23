@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_home_drawer.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_seller_item_view.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\seller_item_view.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cart.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_share.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tshirts.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\tshirts.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sweather.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\sweather.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seller.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\seller.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_select_product_image.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\select_product_image.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_seller_home.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_seller_home.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mobiles.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\mobiles.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_seller_login.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_seller_login.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_manage.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_home.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_home.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_admin_home.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_applogo.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\applogo.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_check_new_products.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_admin_check_new_products.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_glasses.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\glasses.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sports.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\sports.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\menu_home.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_seller_registration.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_seller_registration.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_confirm_final_order.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_confirm_final_order.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reset_password.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_share.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\fragment_share.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_books.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\books.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sellerlogin.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\sellerlogin.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_seller_add_new_product.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_seller_add_new_product.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_design.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\input_design.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_send.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_items_layout.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\cart_items_layout.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_watches.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\watches.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_home.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_maintain_products.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_admin_maintain_products.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_orders_layout.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\orders_layout.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_category.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\category.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_seller_category.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_seller_category.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_female_dresses.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\female_dresses.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tools.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\fragment_tools.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_headphoness.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\headphoness.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttons.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\buttons.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_register.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\register.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product_details.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_product.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_search_product.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hats.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\hats.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_welcome.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\welcome.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_cart.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\nav_cart.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_purses_bags.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\purses_bags.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shoess.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\shoess.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_product_items_layout.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\product_items_layout.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_home.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orders.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\orders.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_user_products.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_admin_user_products.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_new_order.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\activity_admin_new_order.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_send.xml.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\layout\\fragment_send.xml"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_laptops.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\laptops.png"
+    },
+    {
+        "merged": "D:\\android_output\\courses output\\ecommerce app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart.png.flat",
+        "source": "D:\\android_output\\courses output\\ecommerce app\\app\\src\\main\\res\\drawable\\cart.png"
+    }
+]
