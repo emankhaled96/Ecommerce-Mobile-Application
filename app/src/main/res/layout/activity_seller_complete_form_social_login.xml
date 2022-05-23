@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sellerloginbackground"
+    tools:context=".Sellers.SellerLoginActivity">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:layout_marginStart="10dp"
+        android:text="Please Complete Your Login Information "
+        android:fontFamily="@font/newregular"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:textSize="22dp"
+
+        />
+
+
+    <EditText
+        android:id="@+id/seller_sociallogin_name"
+        android:layout_width="380dp"
+        android:layout_height="51dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/custom_card3"
+        android:fontFamily="@font/newregular"
+        android:hint="@string/username"
+        android:inputType="text"
+        android:padding="15dp"
+
+        android:textColor="@color/pink"
+        android:textColorHint="@color/pink"
+        android:textSize="18dp" />
+
+    <EditText
+        android:id="@+id/seller_sociallogin_phone"
+        android:layout_width="380dp"
+        android:layout_height="51dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="10dp"
+        android:layout_below="@+id/seller_sociallogin_name"
+        android:background="@drawable/custom_card3"
+        android:fontFamily="@font/newregular"
+        android:hint="@string/phoneNumber"
+        android:inputType="phone"
+        android:padding="15dp"
+
+        android:textColor="@color/pink"
+        android:textColorHint="@color/pink"
+        android:textSize="18dp" />
+
+    <EditText
+        android:id="@+id/seller_sociallogin_address"
+        android:layout_width="380dp"
+        android:layout_height="51dp"
+        android:layout_below="@id/seller_sociallogin_phone"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/custom_card3"
+        android:fontFamily="@font/newregular"
+        android:hint="@string/shop_business_address"
+        android:inputType="text"
+
+        android:padding="15dp"
+        android:textColor="@color/pink"
+        android:textColorHint="@color/pink"
+        android:textSize="18dp" />
+
+    <Button
+        android:id="@+id/seller_done_btn"
+        android:layout_width="158dp"
+        android:layout_height="49dp"
+        android:layout_below="@+id/seller_sociallogin_address"
+
+        android:layout_marginStart="125dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/custom_card3"
+        android:fontFamily="@font/newbold"
+        android:text="Done"
+        android:textAllCaps="false"
+        android:textColor="@color/pink"
+        android:textSize="20dp" />
+
+
+
+</RelativeLayout>

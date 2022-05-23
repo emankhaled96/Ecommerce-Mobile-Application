@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/app_bar_home">
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scrollbars="none"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="95dp"
+            android:layout_height="95dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:layout_margin="5dp"
+                android:id="@+id/dressBtn"
+                android:foregroundGravity="center"
+                android:background="@drawable/categorycirclebtn"
+                android:foreground="@drawable/smalldresss"
+                tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+
+            <Button
+                android:id="@+id/watchBtn"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:layout_margin="5dp"
+                android:foregroundGravity="center"
+                android:background="@drawable/categorycirclebtn"
+                android:foreground="@drawable/watch"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+            <Button
+                android:id="@+id/bagBtn"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:layout_margin="5dp"
+
+                android:background="@drawable/categorycirclebtn"
+                android:foreground="@drawable/bag"
+                android:foregroundGravity="center"
+                tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+            <Button
+                android:id="@+id/mobileBtn"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/categorycirclebtn"
+                android:foreground="@drawable/smartphone"
+                android:foregroundGravity="center"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+            <Button
+                android:id="@+id/morebtn"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:layout_margin="5dp"
+                android:background="@drawable/greycirclebtn"
+                android:foreground="@drawable/arrow"
+                android:foregroundGravity="center"
+                android:foregroundTint="@color/pink"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+
+        </LinearLayout>
+
+
+    </HorizontalScrollView>
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/newbold"
+        android:text="@string/all_products"
+        android:textSize="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.051"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/horizontalScrollView" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/Recycler_menu"
+        android:layout_width="413dp"
+
+        android:layout_height="532dp"
+        android:layout_marginTop="10dp"
+        android:scrollbars="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <fragment
+        android:id="@+id/nav_host_fragment_content_buyer_home"
+        android:name="androidx.navigation.fragment.NavHostFragment"
+        android:layout_width="409dp"
+        android:layout_height="522dp"
+        app:defaultNavHost="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/Recycler_menu"
+        app:layout_constraintVertical_bias="0.0"
+        app:navGraph="@navigation/mobile_navigation"
+        tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

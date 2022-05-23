@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Buyer.FavoritesActivity">
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout55"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:background="@color/pink"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/arrow_fav"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/ic_baseline_arrow_back_ios_24"
+            android:backgroundTint="@color/white" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="14dp"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="@font/newregular"
+            android:text="My Favorites"
+            android:textColor="@color/white"
+            android:textSize="25dp" />
+    </RelativeLayout>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/Fav_List"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/RelativeLayout55"
+        android:layout_marginTop="8dp"
+        android:visibility="visible"></androidx.recyclerview.widget.RecyclerView>
+
+
+
+</RelativeLayout>

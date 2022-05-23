@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".Buyer.ProductDetailsActivity">
+
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout55"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:background="@color/pink"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/arrow_det"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/ic_baseline_arrow_back_ios_24"
+            android:backgroundTint="@color/white" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="14dp"
+            android:fontFamily="@font/newregular"
+            android:text="Details"
+            android:textColor="@color/white"
+            android:textSize="25dp" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/product_name_detail"
+        android:layout_width="380dp"
+        android:layout_height="49dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:fontFamily="@font/newbold"
+        android:padding="10dp"
+
+        android:text="@string/product_name"
+        android:textColor="@color/grey"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.111"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/product_image_detail"
+        android:layout_width="380dp"
+        android:layout_height="227dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.265" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/description_card"
+
+        android:layout_width="369dp"
+        android:layout_height="194dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:elevation="6dp"
+        android:foreground="@drawable/custom_card"
+        app:cardCornerRadius="20dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/product_image_detail"
+        app:layout_constraintVertical_bias="0.165">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/product_price_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/newbold"
+                android:gravity="center"
+
+                android:text="Product Price"
+                android:textColor="@color/pink"
+                android:textSize="22dp" />
+
+            <TextView
+                android:id="@+id/product_description_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/product_price_detail"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/newregular"
+                android:paddingLeft="10dp"
+                android:text="Product Description"
+                android:textColor="@android:color/black"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/product_favourite_btn"
+                android:layout_width="26dp"
+                android:layout_height="26dp"
+                android:layout_alignParentRight="true"
+
+                android:layout_marginTop="155dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/ic_baseline_favorite_border_pink_24"
+                android:backgroundTint="@color/pink" />
+        </RelativeLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+    <com.cepheuen.elegantnumberbutton.view.ElegantNumberButton
+        android:id="@+id/number_btn"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+
+        android:elevation="6dp"
+        app:backGroundColor="@color/pink"
+        app:finalNumber="100"
+        app:initialNumber="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/description_card"
+        app:layout_constraintVertical_bias="0.185"
+        app:textSize="11sp"
+        tools:ignore="MissingClass" />
+
+    <Button
+        android:id="@+id/Pd_add_to_cart_btn"
+        android:layout_width="250dp"
+        android:layout_height="59dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/register_button"
+        android:text="@string/add_to_cart"
+        android:textColor="@android:color/white"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/number_btn"
+        app:layout_constraintVertical_bias="0.547" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Blink</string>
+    <string name="join_now">Join Now</string>
+    <string name="already_have_account">Already have an account! Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="want_seller_begin">Want To Become A Seller!</string>
+    <string name="username">Username</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="forgot_pass">Forget Password?</string>
+    <string name="iam_admin_txt">I\'m an Admin</string>
+    <string name="iam_normal_user_txt">I\'m not an Admin</string>
+    <string name="remember_me">Remember me</string>
+    <string name="title_activity_buyer_home">BuyerHomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="all_products">All Products</string>
+    <string name="product_name">Product Name</string>
+    <string name="confirm_order">Confirm Your Order</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="product_price">Price</string>
+    <string name="remove">Remove</string>
+    <string name="total_price">Total Price = </string>
+    <string name="please_confirm_your_shipment_details">Please Confirm Your Shipment Details</string>
+    <string name="home_address">Home Address</string>
+    <string name="city_name">City Name</string>
+    <string name="confirm">Confirm</string>
+    <string name="continue_to_payment">Continue to Payment</string>
+    <string name="go_back_home">Go Back Home</string>
+    <string name="your_phone_number">Your Phone Number</string>
+    <string name="answer_the_following_security_questions">Answer The Following Security Questions</string>
+    <string name="what_is_your_favourite_color">What is your favourite color?</string>
+    <string name="what_is_your_favourite_super_hero">What is your favourite super hero?</string>
+
+
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_seller_home">SellerHomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="go_shopping">Go Shopping</string>
+    <string name="change_profile">Change Profile</string>
+    <string name="phone_number">Phone Number...</string>
+    <string name="full_name">Full Name...</string>
+    <string name="address">Address...</string>
+    <string name="password1">Password...</string>
+    <string name="set_security_questions">Set Security Questions</string>
+    <string name="welcome_dear_admin_what_do_you_want_to_do">Welcome Dear Admin, What do you want to do?</string>
+    <string name="maintain_products">Maintain Products</string>
+    <string name="check_new_orders">Check New Orders</string>
+    <string name="approve_new_products">Approve New Products</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_price1">Product Price</string>
+    <string name="apply">Apply</string>
+    <string name="delete">Delete</string>
+    <string name="new_orders">New Orders</string>
+    <string name="products">Products</string>
+
+    <string name="phone_number1">Phone Number :</string>
+    <string name="address1">Address :</string>
+    <string name="time">Time :</string>
+    <string name="total_price1">Total Price :</string>
+    <string name="show_products"><![CDATA[Show Products >>]]></string>
+    <string name="email_address">Email Address</string>
+    <string name="shop_business_address">Shop , Business Address</string>
+    <string name="sorry">Sorry!</string>
+
+    <!-- Strings for onBoarding Screen -->
+    <!--Titles-->
+    <string name="first_slide_title">Buy and Sell Anything!</string>
+    <string name="second_slide_title">Exclusive Products !</string>
+    <string name="third_slide_title">Products Delivery !</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">You can buy or sell products with a simple and easy way.  </string>
+    <string name="second_slide_desc">Find your favorite products that
+  you need to buy at anytime.</string>
+    <string name="third_slide_desc">Your products are delivered
+home safely and securely.</string>
+
+
+    <!--Buttons-->
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Let\'s get started</string>
+    <string name="category_name">Category Name</string>
+    <string name="product_details">Product Details</string>
+    <string name="cart">Cart</string>
+    <string name="categories">Categories</string>
+    <string name="confirm_order1">Confirm Order</string>
+
+    <!-- end of onboarding-->
+    <string name="facebook_app_id">680183466693468</string>
+    <string name="fb_login_protocol_scheme">fb680183466693468</string>
+    <string name="previous_orders">Previous Orders</string>
+    <string name="product_date_time">Product Date Time</string>
+    <string name="orders">Orders</string>
+    <string name="order_again">Order Again >></string>
+    <string name="title_activity_order">orderActivity</string>
+    <string name="tab_text_1">Not Shipped Orders</string>
+    <string name="tab_text_2">Shipped Orders</string>
+
+
+</resources>

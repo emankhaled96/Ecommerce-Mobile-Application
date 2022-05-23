@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="350dp"
+        android:layout_height="217dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="25dp"
+        android:foreground="@drawable/custom_edit_text"
+        android:elevation="10dp"
+        android:padding="10dp"
+        app:cardCornerRadius="20dp">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="237dp"
+            android:layout_height="41dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginTop="15dp"
+            app:cardCornerRadius="20dp">
+
+            <RelativeLayout
+                android:layout_width="237dp"
+                android:layout_height="41dp"
+                android:background="@drawable/gradientbtn">
+
+                <TextView
+                    android:id="@+id/order_username"
+                    android:layout_width="237dp"
+                    android:layout_height="41dp"
+
+                    android:fontFamily="@font/newbold"
+                    android:padding="10dp"
+                    android:text="@string/username"
+                    android:textAlignment="center"
+                    android:textColor="@android:color/white"
+                    android:textSize="20dp" />
+            </RelativeLayout>
+
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/order_phone_number"
+            android:layout_width="300dp"
+
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="70dp"
+            android:layout_marginRight="5dp"
+            android:fontFamily="@font/newregular"
+            android:text="@string/phone_number1"
+            android:textColor="@color/blue"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/order_total_price"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="145dp"
+            android:layout_marginRight="5dp"
+            android:fontFamily="@font/newregular"
+            android:text="@string/total_price1"
+            android:textColor="@color/blue"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/order_address_city"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="95dp"
+            android:layout_marginRight="5dp"
+
+            android:fontFamily="@font/newregular"
+            android:text="@string/address1"
+            android:textColor="@color/blue"
+            android:textSize="18dp" />
+
+
+        <TextView
+            android:id="@+id/order_date_time"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="120dp"
+            android:layout_marginRight="5dp"
+            android:fontFamily="@font/newregular"
+            android:text="@string/time"
+            android:textColor="@color/blue"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/show_all_products_btn"
+            android:layout_width="118dp"
+            android:layout_height="24dp"
+            android:layout_below="@id/order_date_time"
+            android:layout_marginStart="210dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="180dp"
+            android:background="@android:color/white"
+            android:fontFamily="@font/newregular"
+            android:text="@string/show_products"
+            android:textAllCaps="false"
+            android:textColor="@color/pink"
+            android:textSize="14dp" />
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/buyercategorybackground"
+    tools:context=".Buyer.CategoriesActivity">
+    <RelativeLayout
+        android:id="@+id/RelativeLayout12"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        tools:ignore="MissingConstraints">
+
+    <TextView
+        android:id="@+id/arrow_cats"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="15dp"
+
+        android:layout_marginLeft="25dp"
+        android:background="@drawable/ic_baseline_arrow_back_ios_24"
+        android:backgroundTint="@color/pink" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="140dp"
+            android:layout_marginTop="15dp"
+            android:textAlignment="center"
+            android:fontFamily="@font/newbold"
+            android:text="@string/categories"
+            android:textColor="@color/pink"
+            android:textSize="26dp" />
+    </RelativeLayout>
+    <ImageView
+        android:id="@+id/buyer_dress"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="80dp"
+
+        android:scaleType="fitCenter"
+        android:src="@drawable/pinkdress" />
+
+    <TextView
+        android:id="@+id/buyer_dress_txt"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="180dp"
+        android:fontFamily="@font/newregular"
+        android:text="Dresses"
+        android:textColor="@color/pink"
+        android:textSize="22dp" />
+
+    <ImageView
+        android:id="@+id/buyer_shirts"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="80dp"
+        android:scaleType="fitCenter"
+        android:layout_marginStart="140dp"
+        android:src="@drawable/pinktshirt" />
+
+    <TextView
+        android:id="@+id/buyer_shirts_txt"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="180dp"
+        android:layout_marginTop="180dp"
+        android:fontFamily="@font/newregular"
+        android:text="Shirts"
+        android:textColor="@color/pink"
+        android:textSize="22dp" />
+
+    <ImageView
+        android:id="@+id/buyer_sweater"
+        android:layout_width="130dp"
+        android:layout_height="115dp"
+        android:layout_marginStart="280dp"
+        android:layout_marginTop="65dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/pinksweater" />
+
+    <TextView
+        android:id="@+id/buyer_sweater_txt"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="310dp"
+        android:layout_marginTop="180dp"
+        android:fontFamily="@font/newregular"
+        android:text="Sweaters"
+        android:textColor="@color/pink"
+        android:textSize="22dp" />
+
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:src="@drawable/pinkmobile"
+        android:layout_marginTop="235dp"
+
+        android:id="@+id/buyer_smartphones"
+        />
+
+    <TextView
+        android:id="@+id/buyer_smartphones_txt"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="340dp"
+        android:fontFamily="@font/newregular"
+        android:text="SmartPhones"
+        android:textColor="@color/pink"
+        android:textSize="22dp" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:src="@drawable/pinkwatch"
+        android:layout_marginTop="235dp"
+        android:scaleType="fitCenter"
+        android:layout_marginStart="140dp"
+        android:id="@+id/buyer_watches"
+        />
+
+    <TextView
+        android:id="@+id/buyer_watches_txt"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="165dp"
+        android:layout_marginTop="340dp"
+        android:fontFamily="@font/newregular"
+        android:text="Watches"
+        android:textColor="@color/pink"
+        android:textSize="22dp" />
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:src="@drawable/pinkbag"
+        android:layout_marginTop="235dp"
+        android:scaleType="fitCenter"
+        android:layout_marginStart="280dp"
+        android:id="@+id/buyer_bags"
+        />
+
+    <TextView
+        android:id="@+id/buyer_bags_txt"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="325dp"
+        android:layout_marginTop="340dp"
+        android:fontFamily="@font/newregular"
+        android:text="Bags"
+        android:textColor="@color/pink"
+        android:textSize="22dp" />
+
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="410dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/pinkhat"
+        android:id="@+id/buyer_hats"
+        />
+
+    <TextView
+        android:id="@+id/buyer_hats_txt"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="510dp"
+        android:fontFamily="@font/newregular"
+        android:text="Hats"
+        android:textColor="@color/pink"
+        android:textSize="22dp" />
+
+
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:src="@drawable/pinkheadphone"
+        android:layout_marginTop="410dp"
+        android:scaleType="fitCenter"
+        android:layout_marginStart="280dp"
+
+        android:id="@+id/buyer_headphones"
+        />
+
+    <TextView
+        android:id="@+id/buyer_headphones_txt"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="280dp"
+        android:layout_marginTop="510dp"
+        android:fontFamily="@font/newregular"
+        android:text="Headphones"
+        android:textColor="@color/pink"
+        android:textSize="22dp" />
+
+    <ImageView
+        android:id="@+id/buyer_sport_shirts"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:scaleType="fitCenter"
+        android:layout_marginTop="410dp"
+        android:layout_marginStart="140dp"
+
+        android:src="@drawable/sporttshirt" />
+
+    <TextView
+        android:id="@+id/buyer_sport_shirts_txt"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="510dp"
+        android:fontFamily="@font/newregular"
+        android:text="Sport Shirts"
+        android:textColor="@color/pink"
+        android:textSize="22dp" />
+
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:src="@drawable/pinkglasses"
+        android:id="@+id/buyer_glasses"
+        android:layout_marginTop="570dp"
+        android:layout_marginStart="3dp"
+        android:scaleType="fitCenter"
+        />
+
+    <TextView
+        android:id="@+id/buyer_glasses_txt"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="670dp"
+        android:fontFamily="@font/newregular"
+        android:text="Glasses"
+        android:textColor="@color/pink"
+        android:textSize="22dp" />
+
+
+
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:src="@drawable/pinkshoes"
+        android:id="@+id/buyer_shoes"
+        android:scaleType="fitCenter"
+        android:layout_marginTop="570dp"
+        android:layout_marginStart="140dp"
+        />
+
+    <TextView
+        android:id="@+id/buyer_shoes_txt"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="180dp"
+        android:layout_marginTop="670dp"
+        android:fontFamily="@font/newregular"
+        android:text="Shoes"
+        android:textColor="@color/pink"
+        android:textSize="22dp" />
+
+
+    <ImageView
+        android:id="@+id/buyer_laptop"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="280dp"
+        android:layout_marginTop="570dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/pinklaptop" />
+
+    <TextView
+        android:id="@+id/buyer_laptop_txt"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="305dp"
+        android:layout_marginTop="670dp"
+        android:fontFamily="@font/newregular"
+        android:text="Laptops"
+        android:textColor="@color/pink"
+        android:textSize="22dp" />
+
+
+</RelativeLayout>

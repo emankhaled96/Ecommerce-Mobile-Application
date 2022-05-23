@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Buyer.PaymentDetailsActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+
+        android:id="@+id/payid"
+        android:fontFamily="@font/newbold"
+        android:text="Pay ID"
+        android:textColor="@color/pink"
+        android:textSize="24dp" />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:id="@+id/paystate"
+
+        android:fontFamily="@font/newbold"
+        android:text="Pay State"
+        android:textColor="@color/pink"
+        android:textSize="24dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:id="@+id/payamount"
+
+        android:fontFamily="@font/newbold"
+        android:text="Pay Amount"
+        android:textColor="@color/pink"
+        android:textSize="24dp" />
+
+</RelativeLayout>
