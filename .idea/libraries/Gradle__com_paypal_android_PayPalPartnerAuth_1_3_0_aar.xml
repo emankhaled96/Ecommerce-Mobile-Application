@@ -1,12 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.paypal.android:PayPalPartnerAuth:1.3.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7cec7dacf2771325a9b2f311ce9b14e5/transformed/jetified-PayPalPartnerAuth-1.3.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7cec7dacf2771325a9b2f311ce9b14e5/transformed/jetified-PayPalPartnerAuth-1.3.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7cec7dacf2771325a9b2f311ce9b14e5/transformed/jetified-PayPalPartnerAuth-1.3.0/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c612f68a29dd55e4671c3a77893bcb93/transformed/jetified-PayPalPartnerAuth-1.3.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c612f68a29dd55e4671c3a77893bcb93/transformed/jetified-PayPalPartnerAuth-1.3.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c612f68a29dd55e4671c3a77893bcb93/transformed/jetified-PayPalPartnerAuth-1.3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1c32b55c43a140475512764f698426c9/transformed/jetified-PayPalPartnerAuth-1.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1c32b55c43a140475512764f698426c9/transformed/jetified-PayPalPartnerAuth-1.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1c32b55c43a140475512764f698426c9/transformed/jetified-PayPalPartnerAuth-1.3.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
