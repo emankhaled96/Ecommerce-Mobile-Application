@@ -16,7 +16,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aa0383b-6b38-4880-b0e7-306bac2e5986" name="Default Changelist" comment="removing some file" />
+    <list default="true" id="9aa0383b-6b38-4880-b0e7-306bac2e5986" name="Default Changelist" comment="ignoring some file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +125,7 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -149,8 +149,8 @@
       <recent name="com.emankhaled.ecommerceapp.Sellers" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Eman_Outputs\android_output\Ecommerce app (old and new)\Blink app" />
       <recent name="D:\Eman_Outputs\android_output\Ecommerce app (old and new)\Blink app\app" />
+      <recent name="D:\Eman_Outputs\android_output\Ecommerce app (old and new)\Blink app" />
       <recent name="D:\android_output\ecommerce app - Copy - Social Login Copy- orders -tabbed\app\src\main\res\drawable-xhdpi" />
       <recent name="D:\android_output\ecommerce app - Copy - Social Login Copy\app\src\main\res\drawable-v24" />
       <recent name="D:\android_output\ecommerce app - Copy - Social Login Copy\app\src\main\res\layout" />
@@ -336,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654338141088</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="removing some file">
+      <created>1654338166345</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654338166345</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
