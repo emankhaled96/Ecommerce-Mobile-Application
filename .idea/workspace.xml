@@ -16,7 +16,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aa0383b-6b38-4880-b0e7-306bac2e5986" name="Default Changelist" comment="add gitignore file" />
+    <list default="true" id="9aa0383b-6b38-4880-b0e7-306bac2e5986" name="Default Changelist" comment="deleting gitignore file">
+      <change afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,13 +120,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../old ecommerce app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -147,11 +150,11 @@
       <recent name="com.emankhaled.ecommerceapp.Sellers" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Eman_Outputs\android_output\Ecommerce app (old and new)\Blink app" />
+      <recent name="D:\Eman_Outputs\android_output\Ecommerce app (old and new)\Blink app\app" />
       <recent name="D:\android_output\ecommerce app - Copy - Social Login Copy- orders -tabbed\app\src\main\res\drawable-xhdpi" />
       <recent name="D:\android_output\ecommerce app - Copy - Social Login Copy\app\src\main\res\drawable-v24" />
       <recent name="D:\android_output\ecommerce app - Copy - Social Login Copy\app\src\main\res\layout" />
-      <recent name="D:\android_output\ecommerce app - Copy - Social Login Copy\app\src\main\res\drawable" />
-      <recent name="D:\android_output\ecommerce app - Copy\app\src\main\res\drawable-hdpi" />
     </key>
     <key name="android.template.-1526838311">
       <recent name="com.emankhaled.ecommerceapp.Buyer" />
@@ -313,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654337363376</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="deleting gitignore file">
+      <created>1654337516908</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654337516908</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -347,7 +357,8 @@
     </ignored-roots>
     <MESSAGE value="Ecommerce App" />
     <MESSAGE value="add gitignore file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gitignore file" />
+    <MESSAGE value="deleting gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleting gitignore file" />
   </component>
   <component name="gradleExecuteTaskHistory">
     <option value="" />
