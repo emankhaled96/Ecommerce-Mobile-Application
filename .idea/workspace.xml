@@ -16,9 +16,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aa0383b-6b38-4880-b0e7-306bac2e5986" name="Default Changelist" comment="deleting gitignore file">
-      <change afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
-    </list>
+    <list default="true" id="9aa0383b-6b38-4880-b0e7-306bac2e5986" name="Default Changelist" comment="removing some file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,6 +129,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -323,7 +322,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654337516908</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ignoring some file">
+      <created>1654337936636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654337936636</updated>
+    </task>
+    <task id="LOCAL-00006" summary="removing some file">
+      <created>1654338141088</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654338141088</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,7 +371,9 @@
     <MESSAGE value="Ecommerce App" />
     <MESSAGE value="add gitignore file" />
     <MESSAGE value="deleting gitignore file" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleting gitignore file" />
+    <MESSAGE value="ignoring some file" />
+    <MESSAGE value="removing some file" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing some file" />
   </component>
   <component name="gradleExecuteTaskHistory">
     <option value="" />
